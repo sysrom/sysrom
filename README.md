@@ -6,7 +6,7 @@ My Twitter:@systemerrorrom (I'M NOT GAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)<br>
 My QQ:我知道有人想要恶俗我的所以我不给<br>
 BiliBili:https://space.bilibili.com/325334797 <br>
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=linux&logoColor=white&color=00FFFF)
+![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2019-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2022-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
