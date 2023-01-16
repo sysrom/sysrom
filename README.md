@@ -1,5 +1,4 @@
 ### Hi I'm sysROM
-<audio src='https://blog.sysrom.xyz/bgm1.mp3' autoplay='autoplay'></audio>
 A student from China.<br>
 My Blog:https://blog.sysrom.xyz <br>
 My E-mail:chatsysrom@outlook.com<br>
