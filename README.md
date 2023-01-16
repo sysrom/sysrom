@@ -33,3 +33,6 @@ Hobbies:Programming and hacking infiltration<br>
 ## More Info
 2023年上半年最后一个开源项目应该是QQkey接收平台了,因为1月份发生的事情使得我不得不停歇,近期的精神状态和人都不咋滴(原本还有点东西去折腾的,后面连随便玩个游戏都觉得阳痿)
 也许我闲着也会写些小项目来开源的.
+## :D
+<iframe frameborder="0" border="1" marginwidth="0" marginheight="0" width=333 height=77 src="//music.163.com/outchain/player?type=2&id=1501478613&auto=1&height=66">
+</iframe>
