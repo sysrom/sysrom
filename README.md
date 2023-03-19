@@ -2,7 +2,7 @@
 A student from China.<br>
 My HomePage:https://sysrom.xyz <br>
 My E-mail:chatsysrom@outlook.com<br>
-My Twitter:@systemerrorrom (I'M NOT GAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)<br>
+My Twitter:@sysROM_<br>
 My QQ:2623159091<br>
 BiliBili:https://space.bilibili.com/325334797 <br>
 ## 🔧 Technologies & Tools
