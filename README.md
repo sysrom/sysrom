@@ -27,11 +27,6 @@ BiliBili:https://space.bilibili.com/325334797 <br>
       /____/                                           
 ```      
 ## About Me
-Age:16   Live in Guangdong Province<br>
-Hobbies:Programming and hacking infiltration<br>
+事一个可可爱爱脑子丢掉的xyn，坐标广东屌地
 
-## More Info
-2023年上半年最后一个开源项目应该是~~QQkey接收平台~~(ShellcodeGUI和GetQQKey_CSharp 微信解析聊天记录在写了)了,因为1月份发生的事情使得我不得不停歇,近期的精神状态和人都不咋滴(原本还有点东西去折腾的,后面连随便玩个游戏都觉得阳痿)
-也许我闲着也会写些小项目来开源的.
-## :D
-More Advice plz send My Email Or Twitter talk to me
+##名言
