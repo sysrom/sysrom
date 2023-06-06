@@ -3,7 +3,6 @@ A student from China.<br>
 My HomePage:https://sysrom.xyz <br>
 My E-mail:chatsysrom@outlook.com<br>
 My Twitter:@sysROM_<br>
-My QQ:2623159091<br>
 BiliBili:https://space.bilibili.com/325334797 <br>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
