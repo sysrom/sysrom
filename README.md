@@ -1,5 +1,5 @@
 ### Hi I'm sysROM
-A student from China.<br>
+fu CHINA<br>
 My HomePage:https://sysrom.moe <br>
 My E-mail:admin@sysrom.moe<br>
 My Twitter:@sysROM_<br>
