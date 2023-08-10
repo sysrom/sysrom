@@ -26,7 +26,7 @@ BiliBili:https://space.bilibili.com/325334797 <br>
       /____/                                           
 ```      
 ## About Me
-事一个可可爱爱脑子丢掉的xyn，坐标广东屌地
+Transfemale | I WANT TO DIE I WANT TO DIE I WANT TO DIE I WANT TO DIE I WANT TO DIE
 
 ## 名言
 <center>404 Page Not Fonud</center>
