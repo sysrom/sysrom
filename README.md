@@ -2,7 +2,7 @@
 fu CHINA<br>
 My HomePage:https://sysrom.moe <br>
 My E-mail:admin@sysrom.moe<br>
-My Twitter:@sysROM_<br>
+My Twitter:@sysROM_0<br>
 BiliBili:https://space.bilibili.com/325334797 <br>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
