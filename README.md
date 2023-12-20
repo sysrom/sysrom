@@ -1,9 +1,8 @@
 ### Hi I'm sysROM
-fu CHINA<br>
-My HomePage:https://sysrom.moe <br>
-My E-mail:admin@sysrom.moe<br>
-My Twitter:@sysROM_0<br>
-BiliBili:https://space.bilibili.com/325334797 <br>
+HomePage:https://sysrom.moe <br>
+Contact:admin@sysrom.moe<br>
+Twitter:@sysROM_0<br>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2019-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
