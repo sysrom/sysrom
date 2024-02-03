@@ -2,6 +2,7 @@
 HomePage:https://sysrom.moe <br>
 Contact:admin@sysrom.moe<br>
 Twitter:@sysROM_0<br>
+email: admin@sysrom.moe / admin@8964.ovh
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
