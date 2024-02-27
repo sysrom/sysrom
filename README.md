@@ -26,7 +26,7 @@ email: admin@sysrom.moe / admin@8964.ovh
       /____/                                           
 ```      
 ## About Me
-Transfemale | I WANT TO DIE I WANT TO DIE I WANT TO DIE I WANT TO DIE I WANT TO DIE
+Transfemale | 轻关易道，通商宽衣，金科律玉，颐使气指
 
 ## 名言
 <center>404 Page Not Fonud</center>
