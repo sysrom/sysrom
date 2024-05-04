@@ -1,7 +1,7 @@
 ### Hi I'm sysROM
 HomePage:https://sysrom.moe <br>
 Contact:admin@sysrom.moe<br>
-Twitter:@sysROM_0<br>
+Twitter:@sysROM_<br>
 email: admin@sysrom.moe / admin@8964.ovh / dev@rom.hk
 
 ## 🔧 Technologies & Tools
